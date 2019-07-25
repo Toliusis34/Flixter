@@ -91,3 +91,9 @@ gem 'ranked-model'
 gem 'jquery-ui-rails'
 
 gem "font-awesome-rails"
+
+gem 'nokogiri'
+
+gem 'rack', '~> 2.0.1'
+
+gem 'rspec'
